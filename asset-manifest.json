@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/neatelie/static/css/main.f855e6bc.css",
-    "main.js": "/neatelie/static/js/main.447c4922.js",
+    "main.css": "/neatelie/static/css/main.e6c13ad2.css",
+    "main.js": "/neatelie/static/js/main.48481915.js",
     "static/js/453.6ff77a49.chunk.js": "/neatelie/static/js/453.6ff77a49.chunk.js",
-    "static/media/logo.svg": "/neatelie/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/neatelie/index.html",
-    "main.f855e6bc.css.map": "/neatelie/static/css/main.f855e6bc.css.map",
-    "main.447c4922.js.map": "/neatelie/static/js/main.447c4922.js.map",
+    "main.e6c13ad2.css.map": "/neatelie/static/css/main.e6c13ad2.css.map",
+    "main.48481915.js.map": "/neatelie/static/js/main.48481915.js.map",
     "453.6ff77a49.chunk.js.map": "/neatelie/static/js/453.6ff77a49.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.447c4922.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.48481915.js"
   ]
 }
